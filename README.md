@@ -5,7 +5,8 @@
 In this website, you will find my independant project "Tracking biological weapon fallout" performed from october to december 2020 
 for the second assessment of the module Programinig for Social Science during my first year in integrated MSc and PhD Data Analytics and Society 
 
-Project: 
+Project:
+
 It is an awful day in Data city,  someone lets off a biological weapon on top of a building with bacteria which are deadly on contact. The aim of this
 code is to build a model of the spread in order to know the location of bacteria.
 
@@ -13,8 +14,8 @@ The website contains three tabs: Home with the order of mission, UML and the Pyt
 There are three figures the UML, movement of bacteria according given probalities. 
 
 ### Run the program  
-This Python code was written on the Spyder IDE with  Python version 3.8. In your command prompt, you can: (1) read the script of model: more Trackingbacteria.py,
-(2) read the  script of the agent class: more bacteriaclass.py, (3) run the program: python Trackingbacteria.py and (4) test the program: python -m doctest -v bacteriaclass.py
+This Python code was written on the Spyder IDE with  Python version 3.8. In your command prompt, you can: (1) read the script of model: more bacteriaclass.py,
+(2) read the  script of the agent class: more version.py, (3) run the program: python bacteriaclass.py and (4) test the program: python -m doctest -v bacteriaclass.py.
 
 ### Sources 
 
@@ -27,7 +28,9 @@ HTML and CSS languages w3schools.com
 In order to check my HTML and CSS codes, I used this tool: https://validator.w3.org/
 
 Not used in the project:
+
 Pandas librairy https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
+
 Seaborn librairy https://seaborn.pydata.org/#:~:text=Seaborn%20is%20a%20Python%20data,attractive%20and%20informative%20statistical%20graphics.
 
 
